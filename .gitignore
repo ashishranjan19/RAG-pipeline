@@ -1,0 +1,9 @@
+
+files/.venv/
+files/uploaded_docs/
+files/vector_store/
+**/__pycache__/
+*.pyc
+.env
+.venv/
+venv/
